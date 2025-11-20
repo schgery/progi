@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\sgd2550\\Documents\\c#\\sport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB43A09-51FD-46B2-8FA2-9C39AF883692}|sport\\sport.csproj|d:\\users\\sgd2550\\documents\\c#\\sport\\sport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB43A09-51FD-46B2-8FA2-9C39AF883692}|sport\\sport.csproj|solutionrelative:sport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB43A09-51FD-46B2-8FA2-9C39AF883692}|sport\\sport.csproj|d:\\users\\sgd2550\\documents\\c#\\sport\\sport\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB43A09-51FD-46B2-8FA2-9C39AF883692}|sport\\sport.csproj|solutionrelative:sport\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "D:\\users\\sgd2550\\Documents\\c#\\sport\\sport\\Sport.cs",
+              "RelativeDocumentMoniker": "sport\\Sport.cs",
+              "ToolTip": "D:\\users\\sgd2550\\Documents\\c#\\sport\\sport\\Sport.cs",
+              "RelativeToolTip": "sport\\Sport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:30:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\sgd2550\\Documents\\c#\\sport\\sport\\Program.cs",
+              "RelativeDocumentMoniker": "sport\\Program.cs",
+              "ToolTip": "D:\\users\\sgd2550\\Documents\\c#\\sport\\sport\\Program.cs",
+              "RelativeToolTip": "sport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:29:35.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

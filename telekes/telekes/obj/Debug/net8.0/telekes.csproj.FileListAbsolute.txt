@@ -1,0 +1,14 @@
+D:\users\sgd2550\Documents\c#\telekes\telekes\bin\Debug\net8.0\telekes.exe
+D:\users\sgd2550\Documents\c#\telekes\telekes\bin\Debug\net8.0\telekes.deps.json
+D:\users\sgd2550\Documents\c#\telekes\telekes\bin\Debug\net8.0\telekes.runtimeconfig.json
+D:\users\sgd2550\Documents\c#\telekes\telekes\bin\Debug\net8.0\telekes.dll
+D:\users\sgd2550\Documents\c#\telekes\telekes\bin\Debug\net8.0\telekes.pdb
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\telekes.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\telekes.AssemblyInfoInputs.cache
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\telekes.AssemblyInfo.cs
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\telekes.csproj.CoreCompileInputs.cache
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\telekes.dll
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\refint\telekes.dll
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\telekes.pdb
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\telekes.genruntimeconfig.cache
+D:\users\sgd2550\Documents\c#\telekes\telekes\obj\Debug\net8.0\ref\telekes.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\sgd2550\\Documents\\c#\\telekes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A17A2A-4D83-4D19-BE38-6A8F5963A4C6}|telekes\\telekes.csproj|d:\\users\\sgd2550\\documents\\c#\\telekes\\telekes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A17A2A-4D83-4D19-BE38-6A8F5963A4C6}|telekes\\telekes.csproj|solutionrelative:telekes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A17A2A-4D83-4D19-BE38-6A8F5963A4C6}|telekes\\telekes.csproj|d:\\users\\sgd2550\\documents\\c#\\telekes\\telekes\\telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A17A2A-4D83-4D19-BE38-6A8F5963A4C6}|telekes\\telekes.csproj|solutionrelative:telekes\\telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "telek.cs",
+              "DocumentMoniker": "D:\\users\\sgd2550\\Documents\\c#\\telekes\\telekes\\telek.cs",
+              "RelativeDocumentMoniker": "telekes\\telek.cs",
+              "ToolTip": "D:\\users\\sgd2550\\Documents\\c#\\telekes\\telekes\\telek.cs",
+              "RelativeToolTip": "telekes\\telek.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:38:23.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\sgd2550\\Documents\\c#\\telekes\\telekes\\Program.cs",
+              "RelativeDocumentMoniker": "telekes\\Program.cs",
+              "ToolTip": "D:\\users\\sgd2550\\Documents\\c#\\telekes\\telekes\\Program.cs",
+              "RelativeToolTip": "telekes\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:36:07.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\bin\Debug\net8.0\meteor.exe
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\bin\Debug\net8.0\meteor.deps.json
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\bin\Debug\net8.0\meteor.runtimeconfig.json
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\bin\Debug\net8.0\meteor.dll
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\bin\Debug\net8.0\meteor.pdb
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\meteor.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\meteor.AssemblyInfoInputs.cache
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\meteor.AssemblyInfo.cs
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\meteor.csproj.CoreCompileInputs.cache
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\meteor.dll
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\refint\meteor.dll
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\meteor.pdb
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\meteor.genruntimeconfig.cache
+D:\users\sgd2550\Documents\c#\meteorologia\meteor\meteor\obj\Debug\net8.0\ref\meteor.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\sgd2550\\Documents\\c#\\sorozatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F683EE7-BB84-40F4-8148-079909745A22}|sorozatok\\sorozatok.csproj|d:\\users\\sgd2550\\documents\\c#\\sorozatok\\sorozatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F683EE7-BB84-40F4-8148-079909745A22}|sorozatok\\sorozatok.csproj|solutionrelative:sorozatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F683EE7-BB84-40F4-8148-079909745A22}|sorozatok\\sorozatok.csproj|d:\\users\\sgd2550\\documents\\c#\\sorozatok\\sorozatok\\sorozat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F683EE7-BB84-40F4-8148-079909745A22}|sorozatok\\sorozatok.csproj|solutionrelative:sorozatok\\sorozat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sorozat.cs",
+              "DocumentMoniker": "D:\\users\\sgd2550\\Documents\\c#\\sorozatok\\sorozatok\\Sorozat.cs",
+              "RelativeDocumentMoniker": "sorozatok\\Sorozat.cs",
+              "ToolTip": "D:\\users\\sgd2550\\Documents\\c#\\sorozatok\\sorozatok\\Sorozat.cs",
+              "RelativeToolTip": "sorozatok\\Sorozat.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:57:17.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\sgd2550\\Documents\\c#\\sorozatok\\sorozatok\\Program.cs",
+              "RelativeDocumentMoniker": "sorozatok\\Program.cs",
+              "ToolTip": "D:\\users\\sgd2550\\Documents\\c#\\sorozatok\\sorozatok\\Program.cs",
+              "RelativeToolTip": "sorozatok\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:52:46.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
